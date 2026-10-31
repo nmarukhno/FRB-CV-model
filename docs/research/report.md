@@ -4,7 +4,7 @@
 
 **Автор или участники команды:** Марухно Никита Андреевич, Кудрявцев Дмитрий Олегович
 
-**Вклад каждого участника при командной работе:** Марухно Никита Андреевич - разработка модели, Кудрявцев Дмитрий Олегович - разработка оригинальной статьи, научный рецензент
+**Вклад каждого участника при командной работе:** Марухно Никита Андреевич - разработка модели, Кудрявцев Дмитрий Олегович - разработка оригинальной статьи, научный консультант
 
 
 ## 1. Кто занимается темой
@@ -16,7 +16,7 @@
 | Д. О. Кудрявцев | Neural networks in the search for fast radio bursts with RATAN-600 | [Neural networks in the search for fast radio bursts with RATAN-600](https://doi.org/10.1016/j.ascom.2025.101002) |
 | С. А. Трушкин | Neural networks in the search for fast radio bursts with RATAN-600 | [Neural networks in the search for fast radio bursts with RATAN-600](https://doi.org/10.1016/j.ascom.2025.101002) |
 | П. Г. Цыбулёв | Neural networks in the search for fast radio bursts with RATAN-600 | [Neural networks in the search for fast radio bursts with RATAN-600](https://doi.org/10.1016/j.ascom.2025.101002) |
-| В. А. Столяров | Neural networks in the search for fast radio bursts with RATAN-600 | [Neural networks in the search for fast radio bursts with RATAN-600](https://doi.org/10.1016/j.ascom.2025.101002) |вввв
+| В. А. Столяров | Neural networks in the search for fast radio bursts with RATAN-600 | [Neural networks in the search for fast radio bursts with RATAN-600](https://doi.org/10.1016/j.ascom.2025.101002) |
 
 ### Организации
 
