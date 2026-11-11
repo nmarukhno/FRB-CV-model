@@ -21,4 +21,5 @@
 
 
 **Создание PR**
-Отчёт по лабораторной: /main/course/lab2.md
+Отчёт по лабораторной: [/main/course/lab2.md](https://github.com/nmarukhno/FRB-CV-model/blob/s7-lab2/course/lab2.md)
+ 
